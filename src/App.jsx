@@ -8,10 +8,10 @@ import OpenStars from "./components/OpenStars";
 export default function App() {
   const [open, setOpen] = useState(false);
   const [playStars, setPlayStars] = useState(false);
-  
+
   return (
     <div 
-      className="min-h-screen flex items-center justify-center bg-gradient-to-b from-[#fffff] to-[#7aafe4] overflow-hidden"
+      className="min-h-[100svh] flex items-center justify-center bg-gradient-to-b from-[#fffff] to-[#7aafe4] overflow-hidden"
       onClick={() => {
         if (!open) return;
 
@@ -23,21 +23,7 @@ export default function App() {
       }}
     >
          
-      <div className="w-[420px]">
-        
-        {showStar && (
-        <div
-          className="absolute z-[999]"
-          style={{
-            left: "57.76%",
-            top: "0.8%",
-            fontSize: "220.5px",
-            color: "#000000",
-          }}
-        >
-          ★
-        </div>
-)}
+      <div className="w-[90vw] max-w-[420px] scale-[0.88] md:scale-100">
 
         <AnimatePresence mode="wait">
 
@@ -63,8 +49,7 @@ export default function App() {
 
                 setTimeout(() => {
                   setPlayStars(true);
-                }, 10);       
-                setOpen(!open);
+                }, 10);
               }}
             >
 
