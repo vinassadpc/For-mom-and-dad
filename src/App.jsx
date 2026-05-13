@@ -8,8 +8,7 @@ import OpenStars from "./components/OpenStars";
 export default function App() {
   const [open, setOpen] = useState(false);
   const [playStars, setPlayStars] = useState(false);
-  const [showStar, setShowStar] = useState(false);
-
+  
   return (
     <div 
       className="min-h-screen flex items-center justify-center bg-gradient-to-b from-[#fffff] to-[#7aafe4] overflow-hidden"
@@ -30,10 +29,10 @@ export default function App() {
         <div
           className="absolute z-[999]"
           style={{
-            left: "57.75%",
+            left: "57.76%",
             top: "0.8%",
             fontSize: "220.5px",
-            color: "#cb1c1c",
+            color: "#000000",
           }}
         >
           ★
@@ -64,10 +63,7 @@ export default function App() {
 
                 setTimeout(() => {
                   setPlayStars(true);
-                }, 10);
-                setTimeout(() => {
-                  setShowStar(true);
-                }, 1500);        
+                }, 10);       
                 setOpen(!open);
               }}
             >
