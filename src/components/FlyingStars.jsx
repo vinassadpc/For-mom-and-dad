@@ -4,7 +4,7 @@ export default function FlyingStars() {
 
   const stars = [
     {
-      left: "28%",
+      left: "47%",
       top: "60%",
       x: -220,
       y: -180,
@@ -14,7 +14,7 @@ export default function FlyingStars() {
     },
 
     {
-      left: "35%",
+      left: "10%",
       top: "20%",
       x: 180,
       y: -480,

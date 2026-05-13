@@ -5,7 +5,7 @@ export default function OpenStars() {
     <>
     <motion.span
       className="absolute text-[14px]"
-      style={{ left: "5%", top: "40%" }}
+      style={{ left: "1%", top: "40%" }}
       animate={{
         opacity: [0.4, 1, 0.4],
         color: ["#ffffff", "#fae07b", "#1d47ba", "#ffffff"],
@@ -21,7 +21,7 @@ export default function OpenStars() {
 
     <motion.span
       className="absolute text-[10px]"
-      style={{ left: "7%", top: "45%"}}
+      style={{ left: "2%", top: "45%"}}
       animate={{
         opacity: [0.4, 1, 0.4],
         color: ["#ffffff", "#1d47ba", "#fae07b"],
@@ -37,7 +37,7 @@ export default function OpenStars() {
 
      <motion.span
       className="absolute text-[18px]"
-      style={{ left: "92%", top: "36%"}}
+      style={{ left: "95%", top: "36%"}}
       animate={{
         opacity: [0.4, 1, 0.4],
         color: ["#1d47ba", "#ffffff", "#fae07b", , "#ffffff"],
@@ -149,7 +149,7 @@ export default function OpenStars() {
 
     <motion.span
       className="absolute text-[10px]"
-      style={{ left: "94%", top: "57%" }}
+      style={{ left: "96%", top: "57%" }}
       animate={{
         opacity: [0.4, 1, 0.4],
         color: ["#fae07b", "#ffffff", "#1d47ba", "#fae07b"],
