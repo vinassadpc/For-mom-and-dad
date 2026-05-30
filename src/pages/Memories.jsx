@@ -364,8 +364,6 @@ useEffect(() => {
 
                 rounded-full
 
-                bg-red-500/30
-
                 cursor-pointer
 
                 z-[1000]
@@ -448,8 +446,6 @@ useEffect(() => {
                 h-[25%]
 
                 rounded-full
-
-                bg-blue-500/30
 
                 cursor-pointer
 
