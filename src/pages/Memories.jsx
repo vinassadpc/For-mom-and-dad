@@ -287,7 +287,7 @@ useEffect(() => {
 
     origin-bottom
 
-    z-10
+    z-19
   "
 
   style={{
@@ -327,6 +327,7 @@ useEffect(() => {
             -translate-x-1/2
 
             w-[250px]
+            z-[10]
 
             pointer-events-none
             select-none
@@ -490,6 +491,7 @@ useEffect(() => {
             -translate-x-1/2
 
             w-[300px]
+            z-[0]
 
             cursor-pointer
         "
