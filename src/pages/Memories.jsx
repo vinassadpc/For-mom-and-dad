@@ -356,11 +356,11 @@ useEffect(() => {
             className="
                 absolute
 
-                bottom-[450px]
-                left-[46%]
+                bottom-[55%]
+                left-[43%]
 
-                w-[80px]
-                h-[110px]
+                w-[150px]
+                h-[80px]
 
                 rounded-full
 
@@ -440,11 +440,11 @@ useEffect(() => {
             className="
                 absolute
 
-                bottom-[380px]
-                left-[40%]
+                bottom-[42%]
+                left-[38%]
                 -rotate-40
 
-                w-[80px]
+                w-[150px]
                 h-[100px]
 
                 rounded-full
