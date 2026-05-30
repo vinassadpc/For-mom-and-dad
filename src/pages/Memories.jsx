@@ -357,7 +357,7 @@ useEffect(() => {
                 absolute
 
                 bottom-[450px]
-                left-[47.4%]
+                left-[46%]
 
                 w-[80px]
                 h-[110px]
@@ -441,7 +441,7 @@ useEffect(() => {
                 absolute
 
                 bottom-[380px]
-                left-[42.5%]
+                left-[40%]
                 -rotate-40
 
                 w-[80px]
