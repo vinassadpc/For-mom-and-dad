@@ -707,8 +707,8 @@ useEffect(() => {
 
             className="
             absolute
-            top-60
-            right-130
+            left-[43%]
+            bottom-[20%]
             z-50
             "
         >
