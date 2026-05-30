@@ -667,8 +667,8 @@ useEffect(() => {
         className="
         absolute
 
-        top-[360px]
-        right-[610px]
+        left-[50%]
+        bottom-[50%]
 
         text-center
         text-sm
@@ -757,6 +757,8 @@ useEffect(() => {
 
                 className="
                 w-[350px]
+                left-[50%]
+                bottom-[50%]
                 pointer-events-none
                 select-none
                 "
