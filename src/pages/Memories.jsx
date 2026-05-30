@@ -274,7 +274,7 @@ useEffect(() => {
   className="
     absolute
 
-    bottom-[120px]
+    bottom-[100px]
     left-1/2
     -translate-x-1/2
 
@@ -322,7 +322,7 @@ useEffect(() => {
         className="
             absolute
 
-            bottom-[130px]
+            bottom-[80px]
             left-[49.6%]
             -translate-x-1/2
 
@@ -403,7 +403,7 @@ useEffect(() => {
         className="
             absolute
 
-            bottom-[450px]
+            bottom-[420px]
             left-[49.9%]
             -translate-x-1/2
 
@@ -485,8 +485,8 @@ useEffect(() => {
         className="
             absolute
 
-            bottom-[255px]
-            left-[48.87%]
+            bottom-[240px]
+            left-[48.8%]
             -translate-x-1/2
 
             w-[300px]
