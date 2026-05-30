@@ -142,25 +142,6 @@ useEffect(() => {
     
     <div className="relative min-h-screen overflow-hidden bg-gradient-to-b from-[#ffe5ec] via-[#fff6e9] to-[#dff5e3]">
 
-      <button
-        onClick={() => navigate("/")}
-        className="
-        absolute
-        top-6
-        left-6
-
-        px-4 py-2
-        rounded-full
-
-        bg-white/30
-        backdrop-blur-md
-
-        text-[#7d7275]
-    "
-        >
-        Back
-    </button>
-
       {/* title */}
       <div className="absolute top-10 left-1/2 -translate-x-1/2 text-[#7d7275] tracking-[0.25em] text-sm">
         memories plant
