@@ -668,7 +668,7 @@ useEffect(() => {
         absolute
 
         top-[360px]
-        right-[535px]
+        right-[610px]
 
         text-center
         text-sm
@@ -708,7 +708,7 @@ useEffect(() => {
             className="
             absolute
             top-60
-            right-110
+            right-130
             z-50
             "
         >
