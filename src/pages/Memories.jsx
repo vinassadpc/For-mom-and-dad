@@ -359,8 +359,8 @@ useEffect(() => {
                 bottom-[55%]
                 left-[43%]
 
-                w-[150px]
-                h-[80px]
+                w-[10%]
+                h-[15%]
 
                 rounded-full
 
@@ -440,12 +440,12 @@ useEffect(() => {
             className="
                 absolute
 
-                bottom-[42%]
+                bottom-[40%]
                 left-[38%]
                 -rotate-40
 
-                w-[150px]
-                h-[100px]
+                w-[8%]
+                h-[25%]
 
                 rounded-full
 
