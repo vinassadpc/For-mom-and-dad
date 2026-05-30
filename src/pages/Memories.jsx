@@ -485,7 +485,7 @@ useEffect(() => {
         className="
             absolute
 
-            bottom-[240px]
+            bottom-[220px]
             left-[48.8%]
             -translate-x-1/2
 
