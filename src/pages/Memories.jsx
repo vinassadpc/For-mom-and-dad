@@ -817,8 +817,8 @@ useEffect(() => {
     <div
       className="
         absolute
-        top-[310px]
-        left-1/2
+        left-[50%]
+        bottom-[25%]
         -translate-x-[42%]
 
         w-[100px]
