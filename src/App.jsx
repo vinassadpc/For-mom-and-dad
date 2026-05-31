@@ -10,7 +10,7 @@ export default function App() {
 const musicAudio = useRef(new Audio(bgMusic));
 
 musicAudio.current.loop = true;
-musicAudio.current.volume = 0.03;
+musicAudio.current.volume = 0.015;
 
 
 return (
