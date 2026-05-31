@@ -1,6 +1,5 @@
 import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-
 import ClosedStars from "../components/ClosedStars";
 import FlyingStars from "../components/FlyingStars";
 import OpenStars from "../components/OpenStars";
